@@ -1,6 +1,8 @@
 # YouTube Downloader
-![YouTube Downloader Image fro mp3](./gitPics/mp3.jpg)
-![YouTube Downloader Image for mp4](./gitPics/mp4.jpg)
+![mp3](https://github.com/mallickboy/Youtube-to-MP4-and-MP3-downloader-with-Windows-Installer/assets/96945731/d4eb0b4d-ad6c-40d5-b31a-ffe3ae928cb6)
+
+![mp4](https://github.com/mallickboy/Youtube-to-MP4-and-MP3-downloader-with-Windows-Installer/assets/96945731/947fccbe-6ec1-4f86-8c0f-61f959c4e004)
+
 This repository contains a simple YouTube **downloader application** written in Python and its **setup file** for windods.
 
 ## Installation and Usage
